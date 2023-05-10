@@ -9,7 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-ManishDait)
 <br />
 
-- 🔭 I’m currently working on UI helper library.
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about **Java and Typescript**
 - 📫 How to reach me: [Mail](mailto:daitmanish88@gmail.com), [LinkedIn](https://www.linkedin.com/in/manish-dait-5b93a5220/).
