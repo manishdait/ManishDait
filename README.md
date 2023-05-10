@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about **Java and Typescript**
 - 📫 How to reach me: [Mail](mailto:daitmanish88@gmail.com), [LinkedIn](https://www.linkedin.com/in/manish-dait-5b93a5220/).
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 
 **Languages and Tools**<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
